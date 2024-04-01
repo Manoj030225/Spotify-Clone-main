@@ -34,8 +34,4 @@ The theme for this website is a spotify's web player.
 
 4. [How to use git?](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
-### Contributors -
-
-<a href="https://github.com/TaufeeqRiyaz/Spotify-Clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TaufeeqRiyaz/Spotify-Clone" />
-</a>
+### LIVE DEMO => https://manoj030225.github.io/Spotify-Clone-main/
